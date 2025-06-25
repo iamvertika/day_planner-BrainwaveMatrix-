@@ -23,10 +23,7 @@ It was my **first internship task** for **Brainwave Matrix** and I’m so proud 
 - Debugging errors (so many at first! 😭 but I did it!)
 - Using Git & GitHub confidently
 
-## 🦋 Screenshot
-*(Add screenshot here if you want — I can help with that too!)*
 
----
 
 ✨ This app makes planning your day simple, sweet and aesthetic ✨  
 Thanks to **Brainwave Matrix** for this lovely opportunity 💼🌟
